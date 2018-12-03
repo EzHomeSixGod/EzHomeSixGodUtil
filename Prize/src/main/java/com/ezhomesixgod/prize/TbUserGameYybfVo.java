@@ -1,4 +1,4 @@
-package com.ezhomesixgod;
+package com.ezhomesixgod.prize;
 
 /**
  * @author renyang

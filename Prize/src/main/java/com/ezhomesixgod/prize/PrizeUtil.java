@@ -1,4 +1,4 @@
-package com.ezhomesixgod;
+package com.ezhomesixgod.prize;
 
 import com.google.gson.Gson;
 import org.slf4j.Logger;

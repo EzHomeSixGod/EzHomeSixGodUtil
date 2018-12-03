@@ -12,6 +12,7 @@
     <bytecodeTargetLevel target="8">
       <module name="EzHomeSixGodUtil" target="1.8" />
       <module name="Prize" target="1.8" />
+      <module name="RedPacket" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

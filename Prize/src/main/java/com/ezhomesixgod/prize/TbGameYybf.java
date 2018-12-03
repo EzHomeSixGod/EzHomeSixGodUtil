@@ -1,4 +1,4 @@
-package com.ezhomesixgod;
+package com.ezhomesixgod.prize;
 
 import java.math.BigDecimal;
 import java.util.Date;
